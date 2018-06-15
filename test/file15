@@ -1,0 +1,9 @@
+for x in str:
+	str = ("")
+	if (i == 0):
+		print(str)
+	else:
+		 	
+
+i = 5
+

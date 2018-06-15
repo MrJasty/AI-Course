@@ -1,0 +1,60 @@
+Last login: Mon Jun  4 14:03:54 on ttys008
+PETRONILLAs-MacBook-Air-2:test petronillagriffith$ file2.py
+-bash: file2.py: command not found
+PETRONILLAs-MacBook-Air-2:test petronillagriffith$ nano file2.py
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  GNU nano 2.0.6                           File: file2.py                                                    Modified  
+
+number = 21
+stg = "Another One"
+class_on = "True"
+
+s_list = ["Soraka", "Ryze"]
+
+
+if (number == 21):
+        print (number)
+        print ("inside if statement")
+print ("outside if statement")
+print (stg) 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+^G Get Help        ^O WriteOut        ^R Read File       ^Y Prev Page       ^K Cut Text        ^C Cur Pos
+^X Exit            ^J Justify         ^W Where Is        ^V Next Page       ^U UnCut Text      ^T To Spell
